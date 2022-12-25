@@ -1,0 +1,58 @@
+body{
+    background-color: #433a3a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#container{
+    color: #f0f8ff;
+}
+
+.digit{
+    font-size: 150px;
+    font-weight: 600;
+}
+
+.text{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+#btn-container{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.btn{
+    padding: 7px 25px;
+    font-size: 18px;
+    margin: 0px 10px;
+    border: 0px;
+    cursor: pointer;
+    color: #ffffff;
+}
+
+#start{
+    background-color: #008000;
+}
+
+#stop{
+    background-color: #0000ff;
+}
+
+#reset{
+    background-color: #ef2c2c;
+}
+
+
+
+
+
+
+
+
+
+
+
